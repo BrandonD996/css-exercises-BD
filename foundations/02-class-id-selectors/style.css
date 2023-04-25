@@ -1,0 +1,16 @@
+.Odd {
+    background-color: #FF6B6B ;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+.A {
+    font-size: 24px;
+}
+#B  {
+    color: #050092;
+    font-size: 36px;
+}
+#C {
+    background-color: #47F94C;
+    font-size: 24px;
+    font-weight: bold;
+}
